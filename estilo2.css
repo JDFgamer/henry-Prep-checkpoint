@@ -1,0 +1,121 @@
+#div-negro{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    border-top: 1px black solid;
+    border-bottom: 30px black solid;
+    border-right: 20px black solid;
+    border-left: 1px black solid;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top:auto;
+    bottom: 0px;
+    left: auto;
+    right: 0px;
+}
+
+#uno{
+    border: 10px aqua solid;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+#uno-contact {
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    background-color: rgb(110, 110, 241);
+    align-self: flex-start;
+}
+#uno-careers{
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    background-color: rgb(231, 13, 231);
+    align-self: flex-start;
+
+
+}
+#uno-about{
+    
+    color: white;
+    padding: 40px;
+    background-color: tomato;
+    
+
+
+}
+
+
+    
+    
+#dos{
+    border: 10px rgb(222, 250, 122) solid;
+    margin: 20px;
+
+    
+    
+}
+
+#dos-contact{
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    background-color: rgb(110, 110, 241);
+    align-self: flex-start;
+    text-align: center;
+}
+
+#dos-careers{
+    color:white;
+    padding: 40px;
+    background-color: rgb(255, 134, 78);
+    align-self: flex-start;
+    text-align: center;
+
+
+}
+
+#dos-about{
+    color:white;
+    padding: 40px;
+    background-color: rgb(72, 136, 255);
+    align-self: flex-start;
+    text-align: center;
+
+
+}
+
+#tres{
+    border: 10px aqua solid;
+    margin: 20px;
+    display: flex;
+    justify-content: right;
+}
+#tres-contact {
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    background-color: rgb(110, 110, 241);
+    align-self: flex-start;
+}
+#tres-careers{
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    background-color: rgb(231, 13, 231);
+    align-self: flex-start;
+
+
+}
+#tres-about{
+    
+    color: white;
+    padding: 40px;
+    background-color: tomato;
+    
+
+
+}
